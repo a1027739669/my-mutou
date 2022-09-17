@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/tmp/tmp.YOwgxqgQMj/main.cpp
+sys/epoll.h
+/root/tmp/tmp.YOwgxqgQMj/sys/epoll.h
+iostream
+/root/tmp/tmp.YOwgxqgQMj/iostream
+
